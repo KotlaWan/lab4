@@ -1,0 +1,84 @@
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba2\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba3\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csprojResolveAssemblyReference.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+D:\study\3 course\2 семестр\избранные главы информатики\лабы\labs_git\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+d:\6s\ИГГИ\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csprojAssemblyReference.cache
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+d:\6s\ИГГИ\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.pdb
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+C:\Users\Lenovo\Downloads\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll.config
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.deps.json
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.json
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.runtimeconfig.dev.json
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.dll
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\bin\Debug\netcoreapp2.0\laba2.pdb
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csprojAssemblyReference.cache
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.csproj.CoreCompileInputs.cache
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfoInputs.cache
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.AssemblyInfo.cs
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.dll
+d:\6s\ИГИ\arkhiv\архив\laba4\laba2\obj\Debug\netcoreapp2.0\laba2.pdb

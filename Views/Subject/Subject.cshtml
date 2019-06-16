@@ -1,0 +1,68 @@
+﻿@model SubjectViewModel
+@{
+    ViewData["Title"] = "Subject";
+    int i = 1;
+}
+
+<h3>@ViewData["Message"]</h3>
+
+<table class="table table-striped">
+    <tr>
+        <th scope="col">
+            #
+        </th>
+        <th scope="col">
+            <a asp-action="Subject" asp-route-sortOrder="@ViewBag.NameSort">
+                Name
+            </a>
+        </th>
+        <th scope="col">
+            <a asp-action="Subject" asp-route-sortOrder="@ViewBag.DescriptionSort">
+                Description
+            </a>
+        </th>
+        <th scope="col">
+            <a asp-action="Subject" asp-route-sortOrder="@ViewBag.TeacherSort">
+                Teacher
+            </a>
+        </th>
+    </tr>
+    @foreach (var pf in Model.subjects)
+    {
+        <tr>
+            <td scope="row">
+                @i
+            </td>
+            <td>
+                @pf.Name
+            </td>
+            <td>
+                @pf.Description
+            </td>
+             <td>
+                @pf.Teacher
+            </td>
+        </tr>
+        i++;
+    }
+</table>
+
+@if (Model.PageViewModel.HasPreviousPage)
+{
+    <a asp-action="Subject"
+       asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+       class="btn btn-default btn">
+        <i class="glyphicon glyphicon-chevron-left"></i>
+        Назад
+    </a>
+}
+
+@if (Model.PageViewModel.HasNextPage)
+{
+    <a asp-action="Subject"
+       asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+       class="btn btn-default btn">
+        Вперед
+        <i class="glyphicon glyphicon-chevron-right"></i>
+    </a>
+}

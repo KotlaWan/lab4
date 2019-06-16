@@ -1,0 +1,98 @@
+﻿@model PriceClassViewModel
+@{
+    ViewData["Title"] = "PriceList";
+    int i = 1;
+}
+
+<h3>@ViewData["Message"]</h3>
+
+<form method="get">
+    <div class="form-inline form-group">
+        <label class="control-label">Fuel ClassType: </label>
+        @Html.TextBox("ClassType", Model.Type, htmlAttributes: new { @class = "form-control" })
+
+        <input ClassType="submit" value="Фильтр" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table table-striped">
+    <tr>
+        <th scope="col">
+            #
+        </th>
+        <th scope="col">
+            <a asp-action="PriceList" asp-route-sortOrder="@ViewBag.ClassTypeSort" asp-route-ClassType="@ViewBag.ClassType">
+                ClassType
+            </a>
+        </th>
+        <th scope="col">
+            <a asp-action="PriceList" asp-route-sortOrder="@ViewBag.ClassLeadSort" asp-route-ClassType="@ViewBag.ClassType">
+                ClassLead
+            </a>
+        </th>
+        <th scope="col">
+            <a asp-action="PriceList" asp-route-sortOrder="@ViewBag.CountSort" asp-route-ClassType="@ViewBag.ClassType">
+                Count
+            </a>
+        </th>
+        <th scope="col">
+            <a asp-action="PriceList" asp-route-sortOrder="@ViewBag.DateSort" asp-route-ClassType="@ViewBag.ClassType">
+                Date
+            </a>
+        </th>
+    </tr>
+    @foreach (var pf in Model.PriceClass)
+    {
+    <tr>
+        <td scope="row">
+            @i
+        </td>
+        <td>
+            @pf.ClassType
+        </td>
+        <td>
+            @pf.ClassLead
+        </td>
+        <td>
+            @pf.Count
+        </td>
+        <td>
+            @pf.Date
+        </td>
+    </tr>
+        i++;
+    }
+</table>
+
+@if (Model.PageViewModel.HasPreviousPage)
+{
+    var parms = new Dictionary<string, string>
+        {
+            { "page", (Model.PageViewModel.PageNumber - 1).ToString() },
+            { "ClassType", Model.Type }
+        };
+
+    <a asp-action="PriceList"
+       asp-all-route-data="@parms"
+       class="btn btn-default btn">
+        <i class="glyphicon glyphicon-chevron-left"></i>
+        Назад
+    </a>
+}
+
+@if (Model.PageViewModel.HasNextPage)
+{
+    var parms = new Dictionary<string, string>
+        {
+            { "page", (Model.PageViewModel.PageNumber + 1).ToString() },
+            { "ClassType", Model.Type }
+        };
+
+    <a asp-action="PriceList"
+        asp-all-route-data="@parms"
+        class="btn btn-default btn">
+        Вперед
+        <i class="glyphicon glyphicon-chevron-right"></i>
+    </a>
+}
+
